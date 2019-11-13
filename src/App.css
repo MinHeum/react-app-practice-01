@@ -17,6 +17,9 @@
   color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+.myStyle{
+  padding: 15px;       /*패딩 사이즈*/
+  color: orangered;  /*색상*/
+  font-size: 60px;     /*사이즈*/
+  font-weight: 600;    /*장평*/
 }
