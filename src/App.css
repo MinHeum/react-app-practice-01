@@ -23,3 +23,9 @@
   font-size: 60px;     /*사이즈*/
   font-weight: 600;    /*장평*/
 }
+
+.Board{
+  padding: 60px;
+  border: 2px;
+  border-color: black;
+}
